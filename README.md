@@ -2,7 +2,7 @@
 
 We maintain a curated collection of papers exploring the path towards **Deep Research (DR) Agents**, focusing on formulating core concepts and mapping the research landscape.
 
-⌛️ **Coming soon – Version 2!** We’re continuously compiling and updating cutting‑edge insights. Feel free to suggest any related work you find valuable!
+⌛️ **Version 2 has coming** We’re continuously compiling and updating cutting‑edge insights. Feel free to suggest any related work you find valuable!
 
 <p align="center">
 <img src="assets/agent.webp" width="480px"/>   
